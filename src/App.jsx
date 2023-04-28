@@ -1,7 +1,9 @@
+import Timer from "./component/Timer";
+
 function App() {
   return (
     <div>
-      <h1>Timer</h1>
+      <Timer />
     </div>
   );
 }
